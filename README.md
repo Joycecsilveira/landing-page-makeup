@@ -1,1 +1,1 @@
-Página inicial de Website para praticar  CSS;
+Segundo projeto inicial, ainda em testes. Home Page sobre Maquiagem e cuidados no dia a dia.
